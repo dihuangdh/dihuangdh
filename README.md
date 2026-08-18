@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Di Huang. I'm an AI founder building creative tools that help people turn ideas into real things. Before starting my company, I completed a Ph.D. in AI, focusing on 3D vision.
+
+I write about what I'm exploring, building, and learning along the way.
+
+→ [Learn more about me](https://www.dihuang.me/)
